@@ -1,0 +1,47 @@
+<div mat-dialog-title>
+  <h1>Marvel Heroes Form</h1>
+</div>
+<form [formGroup] = "heroesForm" (ngSubmit) = "onFormSubmit()">
+<div mat-dialog-content class="content">
+  <div class="row">
+    <mat-form-field appearance="outline">
+      <mat-label>Name</mat-label>
+      <input matInput placeholder="Rajani" formControlName="nameLabel"/>
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Citizenship</mat-label>
+      <input matInput placeholder="Ireland" formControlName="citizenshipLabel"/>
+    </mat-form-field>
+  </div>
+  <div class="row">
+    <mat-form-field appearance="outline">
+      <mat-label>Skills</mat-label>
+      <input matInput placeholder="Rajani" formControlName="skillsLabel"/>
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Occupation</mat-label>
+      <input matInput placeholder="" formControlName="occupationLabel"/>
+    </mat-form-field>
+  </div>
+  <div class="row">
+    <mat-form-field appearance="outline">
+      <mat-label>Member Of</mat-label>
+      <input matInput placeholder="Rajani" formControlName="memberOfLabel"/>
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Creator</mat-label>
+      <input matInput placeholder="" formControlName="" formControlName="creatorLabel"/>
+    </mat-form-field>
+  </div>
+  <mat-radio-group aria-label="Select an option" formControlName="genderLabel">
+    <mat-label>Gender</mat-label>
+    <mat-radio-button value="male">Male</mat-radio-button>
+    <mat-radio-button value="female">Female</mat-radio-button>
+  </mat-radio-group>
+</div>
+  <div mat-dialog-actions class="action">
+    <button mat-raised-button type="button" [mat-dialog-close]="false">Cancel</button>
+    <button mat-raised-button color="primary" type="submit">{{data ? "Update" : "Save"}}</button>
+  </div>
+</form>
+

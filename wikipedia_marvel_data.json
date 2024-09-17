@@ -1,0 +1,474 @@
+{
+  "data": [
+    {
+      "nameLabel": "Ben Reillyaaaaaaa",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "precognition",
+      "occupationLabel": "scientist",
+      "memberOfLabel": "New Warriors",
+      "creatorLabel": "Gerry Conway",
+      "genderLabel": "male",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "nameLabel": "Betty Ross",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "writer",
+      "memberOfLabel": "Defenders",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "6",
+      "nameLabel": "Black Panther",
+      "genderLabel": "male",
+      "citizenshipLabel": "Wakanda",
+      "skillsLabel": "superhuman agility / reflexes",
+      "occupationLabel": "superhero",
+      "memberOfLabel": "The Avengers",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "7",
+      "nameLabel": "Blob",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "criminal",
+      "memberOfLabel": "Brotherhood of Mutants",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "8",
+      "nameLabel": "Captain America",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "soldier",
+      "memberOfLabel": "United States Army",
+      "creatorLabel": "Jack Kirby"
+    },
+    {
+      "id": "9",
+      "nameLabel": "Captain Britain",
+      "genderLabel": "male",
+      "citizenshipLabel": "United Kingdom",
+      "skillsLabel": "precognition",
+      "occupationLabel": "scientist",
+      "memberOfLabel": "Illuminati",
+      "creatorLabel": "Chris Claremont"
+    },
+    {
+      "id": "10",
+      "nameLabel": "Cassandra Nova",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "student",
+      "memberOfLabel": "Hellfire Club",
+      "creatorLabel": "Grant Morrison"
+    },
+    {
+      "id": "11",
+      "nameLabel": "Deadpool",
+      "genderLabel": "male",
+      "citizenshipLabel": "Canada",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "fictional soldier",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Fabian Nicieza"
+    },
+    {
+      "id": "12",
+      "nameLabel": "Dracula",
+      "genderLabel": "male",
+      "citizenshipLabel": "Principality of Wallachia",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "sovereign",
+      "memberOfLabel": "Order of the Dragon",
+      "creatorLabel": "Gerry Conway"
+    },
+    {
+      "id": "13",
+      "nameLabel": "Emma Frost",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "superhero",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Chris Claremont"
+    },
+    {
+      "id": "14",
+      "nameLabel": "Ezekiel",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "businessperson",
+      "memberOfLabel": "The Spider Society",
+      "creatorLabel": "John Romita Jr."
+    },
+    {
+      "id": "15",
+      "nameLabel": "Ghost Rider",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "circus performer",
+      "memberOfLabel": "Thunderbolts",
+      "creatorLabel": "Gary Friedrich"
+    },
+    {
+      "id": "16",
+      "nameLabel": "Gladiator",
+      "genderLabel": "male",
+      "citizenshipLabel": "Shi'ar",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "leader",
+      "memberOfLabel": "Imperial Guard",
+      "creatorLabel": "Chris Claremont"
+    },
+    {
+      "id": "17",
+      "nameLabel": "Harry Osborn",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "businessperson",
+      "memberOfLabel": "Alchemax",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "18",
+      "nameLabel": "Hulk",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "scientist",
+      "memberOfLabel": "Avengers",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "19",
+      "nameLabel": "Jason Stryker",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "photokinesis",
+      "occupationLabel": "terrorist",
+      "memberOfLabel": "Purifiers",
+      "creatorLabel": "Brent Anderson"
+    },
+    {
+      "id": "20",
+      "nameLabel": "Jean Grey",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "teacher",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "21",
+      "nameLabel": "Jessica Jones",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "reporter",
+      "memberOfLabel": "Avengers",
+      "creatorLabel": "Brian Michael Bendis"
+    },
+    {
+      "id": "22",
+      "nameLabel": "Jubilee",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "energy blasts",
+      "occupationLabel": "actor",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Chris Claremont"
+    },
+    {
+      "id": "23",
+      "nameLabel": "Juggernaut",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "teacher",
+      "memberOfLabel": "United States Army",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "24",
+      "nameLabel": "Kaine",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "precognition",
+      "occupationLabel": "superhero",
+      "memberOfLabel": "New Warriors",
+      "creatorLabel": "Steven Butler"
+    },
+    {
+      "id": "25",
+      "nameLabel": "Kevin Sydney",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "actor",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Roy Thomas"
+    },
+    {
+      "id": "26",
+      "nameLabel": "Mister Sinister",
+      "genderLabel": "male",
+      "citizenshipLabel": "United Kingdom",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "teacher",
+      "memberOfLabel": "Nazi Germany",
+      "creatorLabel": "Chris Claremont"
+    },
+    {
+      "id": "27",
+      "nameLabel": "Mystique",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "shapeshifting",
+      "occupationLabel": "actor",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Chris Claremont"
+    },
+    {
+      "id": "28",
+      "nameLabel": "Norman Osborn",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "businessperson",
+      "memberOfLabel": "Dark Avengers",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "29",
+      "nameLabel": "Omega Red",
+      "genderLabel": "male",
+      "citizenshipLabel": "Russia",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "mercenary",
+      "memberOfLabel": "KGB",
+      "creatorLabel": "Jim Lee"
+    },
+    {
+      "id": "30",
+      "nameLabel": "Ozymandias",
+      "genderLabel": "male",
+      "citizenshipLabel": "Egypt",
+      "skillsLabel": "precognition",
+      "occupationLabel": "domestic worker",
+      "memberOfLabel": "Clan Akkaba",
+      "creatorLabel": "Scott Lobdell"
+    },
+    {
+      "id": "31",
+      "nameLabel": "Professor X",
+      "genderLabel": "male",
+      "citizenshipLabel": "United Kingdom",
+      "skillsLabel": "telepathy",
+      "occupationLabel": "scientist",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "32",
+      "nameLabel": "Rhino",
+      "genderLabel": "male",
+      "citizenshipLabel": "Russia",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "criminal",
+      "memberOfLabel": "Defenders",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "33",
+      "nameLabel": "Sabretooth",
+      "genderLabel": "male",
+      "citizenshipLabel": "Canada",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "mercenary",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "John Byrne"
+    },
+    {
+      "id": "34",
+      "nameLabel": "Sasquatch",
+      "genderLabel": "male",
+      "citizenshipLabel": "Canada",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "superhero",
+      "memberOfLabel": "Alpha Flight",
+      "creatorLabel": "John Byrne"
+    },
+    {
+      "id": "35",
+      "nameLabel": "Shaman",
+      "genderLabel": "male",
+      "citizenshipLabel": "Canada",
+      "skillsLabel": "levitation",
+      "occupationLabel": "physician",
+      "memberOfLabel": "Alpha Flight",
+      "creatorLabel": "John Byrne"
+    },
+    {
+      "id": "36",
+      "nameLabel": "Silvermane",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "gangster",
+      "memberOfLabel": "Maggia",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "37",
+      "nameLabel": "Snowbird",
+      "genderLabel": "female",
+      "citizenshipLabel": "Canada",
+      "skillsLabel": "retrocognition",
+      "occupationLabel": "superhero",
+      "memberOfLabel": "Alpha Flight",
+      "creatorLabel": "John Byrne"
+    },
+    {
+      "id": "38",
+      "nameLabel": "Spider-Girl",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "student",
+      "memberOfLabel": "New Warriors",
+      "creatorLabel": "Ron Frenz"
+    },
+    {
+      "id": "39",
+      "nameLabel": "Spider-Man",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman agility / reflexes",
+      "occupationLabel": "scientist",
+      "memberOfLabel": "Avengers",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "40",
+      "nameLabel": "Squirrel Girl",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "student",
+      "memberOfLabel": "Avengers",
+      "creatorLabel": "Steve Ditko"
+    },
+    {
+      "id": "41",
+      "nameLabel": "Storm",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "weather manipulation",
+      "occupationLabel": "student",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Len Wein"
+    },
+    {
+      "id": "42",
+      "nameLabel": "Thing",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "astronaut",
+      "memberOfLabel": "The Fantastic Four",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "43",
+      "nameLabel": "Tyrone Cash",
+      "genderLabel": "male",
+      "citizenshipLabel": "United Kingdom",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "gangster",
+      "memberOfLabel": "University of Cambridge",
+      "creatorLabel": "Mark Millar"
+    },
+    {
+      "id": "44",
+      "nameLabel": "Ultimate Colossus",
+      "genderLabel": "male",
+      "citizenshipLabel": "Russia",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "student",
+      "memberOfLabel": "X-Men",
+      "creatorLabel": "Mark Millar"
+    },
+    {
+      "id": "45",
+      "nameLabel": "Ultimate Green Goblin",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "scientist",
+      "memberOfLabel": "Oscorp",
+      "creatorLabel": "Mark Bagley"
+    },
+    {
+      "id": "46",
+      "nameLabel": "Ultimate Spider-Woman",
+      "genderLabel": "female",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "superhuman strength",
+      "occupationLabel": "superhero",
+      "memberOfLabel": "S.H.I.E.L.D.",
+      "creatorLabel": "Mark Bagley"
+    },
+    {
+      "id": "47",
+      "nameLabel": "Vanisher",
+      "genderLabel": "male",
+      "citizenshipLabel": "United States of America",
+      "skillsLabel": "teleportation in fiction",
+      "occupationLabel": "criminal",
+      "memberOfLabel": "X-Force",
+      "creatorLabel": "Stan Lee"
+    },
+    {
+      "id": "48",
+      "nameLabel": "Wolverine",
+      "genderLabel": "male",
+      "citizenshipLabel": "Canada",
+      "skillsLabel": "healing factor",
+      "occupationLabel": "sailor",
+      "memberOfLabel": "Canadian Army",
+      "creatorLabel": "Len Wein"
+    },
+    {
+      "id": "49",
+      "nameLabel": "abc",
+      "citizenshipLabel": "abc",
+      "skillsLabel": "abc",
+      "occupationLabel": "abc",
+      "memberOfLabel": "abc",
+      "creatorLabel": "abc",
+      "genderLabel": "female"
+    },
+    {
+      "id": "f032",
+      "nameLabel": "abc",
+      "citizenshipLabel": "abc",
+      "skillsLabel": "abc",
+      "occupationLabel": "abc",
+      "memberOfLabel": "abc",
+      "creatorLabel": "abc",
+      "genderLabel": "female"
+    }
+  ]
+}
