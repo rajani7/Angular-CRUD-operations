@@ -2,11 +2,9 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { AddEditComponent } from './add-edit/add-edit.component';
 import { HeroesService } from './services/heroes.service';
-import { MatPaginator, MatPaginatorModule } from '@angular/material/paginator';
-import { MatSort, MatSortModule } from '@angular/material/sort';
-import { MatTableDataSource, MatTableModule } from '@angular/material/table';
-import { MatInputModule } from '@angular/material/input';
-import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatSort } from '@angular/material/sort';
+import { MatTableDataSource } from '@angular/material/table';
 import { CoreService } from './core/core.service';
 
 @Component({
@@ -31,11 +29,12 @@ export class AppComponent implements OnInit {
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
+  value = [];
 
   constructor(
     private _dialog: MatDialog,
     private _heroService: HeroesService,
-    private _coreService: CoreService,
+    private _coreService: CoreService
   ) {}
 
   ngOnInit(): void {
@@ -56,6 +55,7 @@ export class AppComponent implements OnInit {
   getHeroesList() {
     this._heroService.getHeroes().subscribe({
       next: (res) => {
+        this.value = res;
         this.dataSource = new MatTableDataSource(res);
         this.dataSource.sort = this.sort;
         this.dataSource.paginator = this.paginator;

@@ -10,7 +10,7 @@ import { CoreService } from '../core/core.service';
   templateUrl: './add-edit.component.html',
   styleUrls: ['./add-edit.component.scss'],
 })
-export class AddEditComponent implements OnInit{
+export class AddEditComponent implements OnInit {
   heroesForm: FormGroup;
 
   constructor(
@@ -18,7 +18,7 @@ export class AddEditComponent implements OnInit{
     private _heroesService: HeroesService,
     private _dialogRef: MatDialogRef<AddEditComponent>,
     private _coreService: CoreService,
-    @Inject(MAT_DIALOG_DATA) public data: any,
+    @Inject(MAT_DIALOG_DATA) public data: any
   ) {
     this.heroesForm = this._fb.group({
       nameLabel: '',
@@ -32,22 +32,23 @@ export class AddEditComponent implements OnInit{
   }
 
   ngOnInit(): void {
-    this.heroesForm.patchValue(this.data)
+    this.heroesForm.patchValue(this.data);
   }
   onFormSubmit() {
     if (this.heroesForm.valid) {
-      if(this.data){
-        this._heroesService.updateHero(this.data.id, this.heroesForm.value).subscribe({
-          next: (val: any) => {
-            this._coreService.openSnackBar('Hero detail updated!!');
-            this._dialogRef.close(true);
-          },
-          error: (err: any) => {
-            console.error(err);
-          },
-        });
-      }
-      else{
+      if (this.data) {
+        this._heroesService
+          .updateHero(this.data.id, this.heroesForm.value)
+          .subscribe({
+            next: (val: any) => {
+              this._coreService.openSnackBar('Hero detail updated!!');
+              this._dialogRef.close(true);
+            },
+            error: (err: any) => {
+              console.error(err);
+            },
+          });
+      } else {
         this._heroesService.addHero(this.heroesForm.value).subscribe({
           next: (val: any) => {
             this._coreService.openSnackBar('Hero Added Sucessfully!');
@@ -58,7 +59,6 @@ export class AddEditComponent implements OnInit{
           },
         });
       }
-    
     }
   }
 }

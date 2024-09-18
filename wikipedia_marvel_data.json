@@ -449,26 +449,6 @@
       "occupationLabel": "sailor",
       "memberOfLabel": "Canadian Army",
       "creatorLabel": "Len Wein"
-    },
-    {
-      "id": "49",
-      "nameLabel": "abc",
-      "citizenshipLabel": "abc",
-      "skillsLabel": "abc",
-      "occupationLabel": "abc",
-      "memberOfLabel": "abc",
-      "creatorLabel": "abc",
-      "genderLabel": "female"
-    },
-    {
-      "id": "f032",
-      "nameLabel": "abc",
-      "citizenshipLabel": "abc",
-      "skillsLabel": "abc",
-      "occupationLabel": "abc",
-      "memberOfLabel": "abc",
-      "creatorLabel": "abc",
-      "genderLabel": "female"
     }
   ]
 }
